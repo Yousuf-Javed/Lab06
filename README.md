@@ -1,4 +1,4 @@
-Storage Estimator - Main Version
+Storage Estimator - Feature Version
 
 Lab06 - Yousuf Abdur Rehman Javed
 
